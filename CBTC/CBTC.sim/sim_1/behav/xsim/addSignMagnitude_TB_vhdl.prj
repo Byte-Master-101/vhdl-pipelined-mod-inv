@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CBTC.srcs/sources_1/new/common.vhd" \
+"../../../../CBTC.srcs/sources_1/new/addSignMagnitude.vhd" \
+"../../../../CBTC.srcs/sim_1/new/addSignMagnitude_TB.vhd" \
+
+# Do not sort compile order
+nosort

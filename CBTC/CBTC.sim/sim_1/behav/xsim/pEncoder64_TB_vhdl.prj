@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CBTC.srcs/sources_1/new/pEncoder16.vhd" \
+"../../../../CBTC.srcs/sources_1/new/pEncoder4.vhd" \
+"../../../../CBTC.srcs/sources_1/new/pEncoder64.vhd" \
+"../../../../CBTC.srcs/sim_1/new/pEncoder64_TB.vhd" \
+
+# Do not sort compile order
+nosort

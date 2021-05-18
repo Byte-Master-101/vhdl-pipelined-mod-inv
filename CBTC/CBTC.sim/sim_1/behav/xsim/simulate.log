@@ -1,0 +1,20 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Note: Testing pipelinedModInv...
+Time: 0 ps  Iteration: 0  Process: /pipelinedModInv_TB/line__63  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd
+Error: test failed for input combination 1
+Time: 190 ns  Iteration: 0  Process: /pipelinedModInv_TB/line__105  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd
+Error: test failed for input combination 2
+Time: 210 ns  Iteration: 0  Process: /pipelinedModInv_TB/line__105  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd
+Error: test failed for input combination 3
+Time: 230 ns  Iteration: 0  Process: /pipelinedModInv_TB/line__105  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd
+Error: test failed for input combination 4
+Time: 250 ns  Iteration: 0  Process: /pipelinedModInv_TB/line__105  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd
+Error: test failed for input combination 5
+Time: 270 ns  Iteration: 0  Process: /pipelinedModInv_TB/line__105  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd
+Note: RES: 33
+Time: 310 ns  Iteration: 0  Process: /pipelinedModInv_TB/line__105  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd
+Error: test failed for input combination 8
+Time: 330 ns  Iteration: 0  Process: /pipelinedModInv_TB/line__105  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd
+Note: Done testing pipelinedModInv...
+Time: 330 ns  Iteration: 0  Process: /pipelinedModInv_TB/line__105  File: C:/Users/User/Desktop/CBTC/CBTC.srcs/sim_1/new/pipelinedModInv_TB.vhd

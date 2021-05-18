@@ -10,7 +10,7 @@ I was able to proof that the algorithm takes a maximum of `n*2` iterations (wher
 ![Proof](images/proof.jpg)
 
 Through experimentation and trial&error, it seems that the algorithm would only take `n` iterations, but I wasn't able to prove it:  
-![HarderProof](images/harder_proof.jpg)
+![HarderProof](images/harder_proof.jpeg)
 
 ## Results
 In order to get a throughput of 1 modular inversion operation per clock cycle, 255 iteration modules have been connected in series to form a pipeline. This had the following synthesis results on a Xilinix UltraScale+ FPGA:  
